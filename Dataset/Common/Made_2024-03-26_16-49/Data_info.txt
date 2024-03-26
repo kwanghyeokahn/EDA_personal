@@ -1,0 +1,12 @@
+[데이터 및 전처리에 대한 정보]
+원본데이터 파일 이름 : ./Dataset/Common/seaborn_tips_data.csv
+Outlier_method_type : IQR
+Before_remove_outlier_data_count : 195개
+After_remove_outlier_data_count : 183개
+Remove_outlier 파일 이름 : Remove_outlier_X_train_data.csv
+Remove_outlier 파일 이름 : Remove_outlier_y_train_data.csv
+Outlier_method_type : standard
+Outlier_save_path : ./Scaler/2024-03-26_16-49_standard_scaler.pkl
+Remove_outlier 파일 이름 : Scaler_after_RMoutlier_X_train_data.csv
+Remove_outlier 파일 이름 : Scaler_after_RMoutlier_X_test_data.csv
+One_hot_encoding 길이 : 10
